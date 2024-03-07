@@ -6,4 +6,5 @@ function inverterString(string) {
     return stringInvertida;
 }
 
+// Insira a string que você deseja inverter
 console.log(inverterString("icaro"))
